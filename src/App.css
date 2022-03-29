@@ -1,3 +1,8 @@
+body {
+  height: 500vh;
+  margin: 0;
+}
+
 .section__padding {
     padding: 4rem 6rem;
   }
